@@ -20,6 +20,10 @@ Route::get('Ejercicio2', function () {
 Route::get('Gato', function () {
     return view('Practicas.Gato');
 });
+Route::get('Crud', function () {
+    return view('Practicas.Crud');
+});
+
 
 
 

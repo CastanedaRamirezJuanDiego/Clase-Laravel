@@ -8,3 +8,7 @@
 <hr>
 <h5>Gato</h5>
 <a href="/Gato">Ejercicio 3</a>
+<hr>
+<h5>CRUD</h5>
+<a href="/Crud">Crud</a>
+<hr>
